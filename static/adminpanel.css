@@ -1,0 +1,28 @@
+
+
+.iconsb{
+    
+        background-color:rgb(93, 93, 213);
+        color: white;
+        box-shadow: inset 20px 12px 5px rgb(68, 68, 185);
+        border-radius:25px;
+        border-width: 0px;
+        width:250px;
+        padding: 10px;
+        font-size:25px; 
+        margin-top:35px;
+        
+}
+.iconsb:hover{
+    box-shadow: 2px 5px 7px rgb(52, 52, 175),
+    5px 10px 15px rgb(52, 52, 175),
+    8px 15px 10px rgb(52, 52, 175),
+    8px 20px 10px rgb(52, 52, 175);
+    
+}
+.fa-solid{
+    margin-right: 7px;
+}
+.fa-solid:hover{
+    transform: scale(1.5);
+}
